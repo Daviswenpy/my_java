@@ -1,5 +1,5 @@
 /* socket实现-客户端 */
-package socketDemo;
+// package socketDemo;
 import java.net.*;
 import java.io.*;
 
@@ -14,7 +14,7 @@ public class GreetingClient {
             OutputStream outToServer = client.getOutputStream();
             DataOutputStream out = new DataOutputStream(outToServer);
 
-            out.writeUTF("hello from"+client.getLocalSocketAddress());;
+            out.writeUTF("hello from"+client.getLocalSocketAddress());
             InputStream inFromServer = client.getInputStream();
             DataInputStream in = new DataInputStream(inFromServer);
             System.out.println("服务器响应: "+in.readUTF());

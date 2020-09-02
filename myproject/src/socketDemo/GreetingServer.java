@@ -1,14 +1,14 @@
 /* socket 服务端 */
-package socketDemo;
+// package socketDemo;
 import java.net.*;
 import java.io.*;
 
 public class GreetingServer extends Thread{
     private ServerSocket serverSocket;
-    public GreetingServer(int port) throws IOException
+    public GreetingServer(int port)  throws IOException
     {
         serverSocket = new ServerSocket();
-        serverSocket.setSoTimeout(10000);
+        serverSocket.setSoTimeout(1000000);
     }
     // run
     public void run()
@@ -17,7 +17,7 @@ public class GreetingServer extends Thread{
         {
             try
             {
-                System.out.println("等待远程连接，端口号为: "+serverSocket.getLocalPort()+"...");;
+                System.out.println("等待远程连接，端口号为: "+serverSocket.getLocalPort()+"...");
                 Socket server = serverSocket.accept();
                 System.out.println("远程host地址: " + server.getRemoteSocketAddress());
                 DataInputStream in = new DataInputStream(server.getInputStream());
