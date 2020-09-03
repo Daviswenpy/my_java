@@ -45,9 +45,9 @@ public class QueueArrayDemo {
     // main
     public static void main(String[] args) {
         QueueArrayDemo queue = new QueueArrayDemo(5);
-        queue.enQueue(1);
-        queue.enQueue(2);
-        queue.enQueue(3);
-        queue.traverse();
+//        queue.enQueue(1);
+//        queue.enQueue(2);
+//        queue.enQueue(3);
+//        queue.traverse();
     }
 }
