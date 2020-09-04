@@ -7,7 +7,7 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.net.Socket;
 import java.net.UnknownHostException;
-// 客户端
+// 客户端 socket
 public class SocketClient {
     public static void main(String[] args) {
         try {
