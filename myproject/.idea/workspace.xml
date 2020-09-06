@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="680dda56-dad1-4b66-b7be-e0fe7e0e30aa" name="Default Changelist" comment="" />
+    <list default="true" id="680dda56-dad1-4b66-b7be-e0fe7e0e30aa" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,9 +55,23 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.FileDirDemo">
+  <component name="RunManager" selected="Application.FileReaderDemo">
     <configuration name="FileDirDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileDirDemo" />
+      <module name="myproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileOutStreamDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileOutStreamDemo" />
+      <module name="myproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileReaderDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileReaderDemo" />
       <module name="myproject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -68,22 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MapDemo" />
-      <module name="myproject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Poker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Poker" />
-      <module name="myproject" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TicketDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TicketDemo" />
+    <configuration name="RecursionFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RecursionFile" />
       <module name="myproject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FileReaderDemo" />
+        <item itemvalue="Application.FileOutStreamDemo" />
+        <item itemvalue="Application.RecursionFile" />
         <item itemvalue="Application.FileDirDemo" />
         <item itemvalue="Application.LamdaDemo" />
-        <item itemvalue="Application.TicketDemo" />
-        <item itemvalue="Application.MapDemo" />
-        <item itemvalue="Application.Poker" />
       </list>
     </recent_temporary>
   </component>
@@ -127,30 +129,30 @@
       <screen x="65" y="24" width="825" height="826" />
     </state>
     <state x="290" y="131" key="#com.intellij.ide.util.MemberChooser/65.24.825.826@65.24.825.826" timestamp="1599111301427" />
-    <state width="779" height="209" key="GridCell.Tab.0.bottom" timestamp="1599276954410">
+    <state width="779" height="208" key="GridCell.Tab.0.bottom" timestamp="1599381466800">
       <screen x="65" y="24" width="825" height="826" />
     </state>
     <state width="976" height="213" key="GridCell.Tab.0.bottom/65.24.1022.826@65.24.1022.826" timestamp="1599035145989" />
     <state width="736" height="213" key="GridCell.Tab.0.bottom/65.24.782.826@65.24.782.826" timestamp="1599094904447" />
-    <state width="779" height="209" key="GridCell.Tab.0.bottom/65.24.825.826@65.24.825.826" timestamp="1599276954410" />
-    <state width="779" height="209" key="GridCell.Tab.0.center" timestamp="1599276954409">
+    <state width="779" height="208" key="GridCell.Tab.0.bottom/65.24.825.826@65.24.825.826" timestamp="1599381466800" />
+    <state width="779" height="208" key="GridCell.Tab.0.center" timestamp="1599381466799">
       <screen x="65" y="24" width="825" height="826" />
     </state>
     <state width="976" height="213" key="GridCell.Tab.0.center/65.24.1022.826@65.24.1022.826" timestamp="1599035145988" />
     <state width="736" height="213" key="GridCell.Tab.0.center/65.24.782.826@65.24.782.826" timestamp="1599094904445" />
-    <state width="779" height="209" key="GridCell.Tab.0.center/65.24.825.826@65.24.825.826" timestamp="1599276954409" />
-    <state width="779" height="209" key="GridCell.Tab.0.left" timestamp="1599276954409">
+    <state width="779" height="208" key="GridCell.Tab.0.center/65.24.825.826@65.24.825.826" timestamp="1599381466799" />
+    <state width="779" height="208" key="GridCell.Tab.0.left" timestamp="1599381466799">
       <screen x="65" y="24" width="825" height="826" />
     </state>
     <state width="976" height="213" key="GridCell.Tab.0.left/65.24.1022.826@65.24.1022.826" timestamp="1599035145988" />
     <state width="736" height="213" key="GridCell.Tab.0.left/65.24.782.826@65.24.782.826" timestamp="1599094904444" />
-    <state width="779" height="209" key="GridCell.Tab.0.left/65.24.825.826@65.24.825.826" timestamp="1599276954409" />
-    <state width="779" height="209" key="GridCell.Tab.0.right" timestamp="1599276954410">
+    <state width="779" height="208" key="GridCell.Tab.0.left/65.24.825.826@65.24.825.826" timestamp="1599381466799" />
+    <state width="779" height="208" key="GridCell.Tab.0.right" timestamp="1599381466799">
       <screen x="65" y="24" width="825" height="826" />
     </state>
     <state width="976" height="213" key="GridCell.Tab.0.right/65.24.1022.826@65.24.1022.826" timestamp="1599035145989" />
     <state width="736" height="213" key="GridCell.Tab.0.right/65.24.782.826@65.24.782.826" timestamp="1599094904446" />
-    <state width="779" height="209" key="GridCell.Tab.0.right/65.24.825.826@65.24.825.826" timestamp="1599276954410" />
+    <state width="779" height="208" key="GridCell.Tab.0.right/65.24.825.826@65.24.825.826" timestamp="1599381466799" />
     <state width="736" height="264" key="GridCell.Tab.1.bottom" timestamp="1599142839626">
       <screen x="65" y="24" width="825" height="826" />
     </state>
