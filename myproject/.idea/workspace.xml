@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="680dda56-dad1-4b66-b7be-e0fe7e0e30aa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1gwnCJB4bevtwEzUurpwl9gyIgj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.FileDirDemo">
+    <configuration name="FileDirDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileDirDemo" />
+      <module name="myproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LamdaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LamdaDemo" />
+      <module name="myproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapDemo" />
+      <module name="myproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Poker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Poker" />
+      <module name="myproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TicketDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicketDemo" />
+      <module name="myproject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FileDirDemo" />
+        <item itemvalue="Application.LamdaDemo" />
+        <item itemvalue="Application.TicketDemo" />
+        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.Poker" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="680dda56-dad1-4b66-b7be-e0fe7e0e30aa" name="Default Changelist" comment="" />
+      <created>1599034395815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599034395815</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="290" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1599111301427">
+      <screen x="65" y="24" width="825" height="826" />
+    </state>
+    <state x="290" y="131" key="#com.intellij.ide.util.MemberChooser/65.24.825.826@65.24.825.826" timestamp="1599111301427" />
+    <state width="779" height="209" key="GridCell.Tab.0.bottom" timestamp="1599276954410">
+      <screen x="65" y="24" width="825" height="826" />
+    </state>
+    <state width="976" height="213" key="GridCell.Tab.0.bottom/65.24.1022.826@65.24.1022.826" timestamp="1599035145989" />
+    <state width="736" height="213" key="GridCell.Tab.0.bottom/65.24.782.826@65.24.782.826" timestamp="1599094904447" />
+    <state width="779" height="209" key="GridCell.Tab.0.bottom/65.24.825.826@65.24.825.826" timestamp="1599276954410" />
+    <state width="779" height="209" key="GridCell.Tab.0.center" timestamp="1599276954409">
+      <screen x="65" y="24" width="825" height="826" />
+    </state>
+    <state width="976" height="213" key="GridCell.Tab.0.center/65.24.1022.826@65.24.1022.826" timestamp="1599035145988" />
+    <state width="736" height="213" key="GridCell.Tab.0.center/65.24.782.826@65.24.782.826" timestamp="1599094904445" />
+    <state width="779" height="209" key="GridCell.Tab.0.center/65.24.825.826@65.24.825.826" timestamp="1599276954409" />
+    <state width="779" height="209" key="GridCell.Tab.0.left" timestamp="1599276954409">
+      <screen x="65" y="24" width="825" height="826" />
+    </state>
+    <state width="976" height="213" key="GridCell.Tab.0.left/65.24.1022.826@65.24.1022.826" timestamp="1599035145988" />
+    <state width="736" height="213" key="GridCell.Tab.0.left/65.24.782.826@65.24.782.826" timestamp="1599094904444" />
+    <state width="779" height="209" key="GridCell.Tab.0.left/65.24.825.826@65.24.825.826" timestamp="1599276954409" />
+    <state width="779" height="209" key="GridCell.Tab.0.right" timestamp="1599276954410">
+      <screen x="65" y="24" width="825" height="826" />
+    </state>
+    <state width="976" height="213" key="GridCell.Tab.0.right/65.24.1022.826@65.24.1022.826" timestamp="1599035145989" />
+    <state width="736" height="213" key="GridCell.Tab.0.right/65.24.782.826@65.24.782.826" timestamp="1599094904446" />
+    <state width="779" height="209" key="GridCell.Tab.0.right/65.24.825.826@65.24.825.826" timestamp="1599276954410" />
+    <state width="736" height="264" key="GridCell.Tab.1.bottom" timestamp="1599142839626">
+      <screen x="65" y="24" width="825" height="826" />
+    </state>
+    <state width="736" height="264" key="GridCell.Tab.1.bottom/65.24.782.826@65.24.782.826" timestamp="1599091773474" />
+    <state width="736" height="264" key="GridCell.Tab.1.bottom/65.24.825.826@65.24.825.826" timestamp="1599142839626" />
+    <state width="736" height="264" key="GridCell.Tab.1.center" timestamp="1599142839625">
+      <screen x="65" y="24" width="825" height="826" />
+    </state>
+    <state width="736" height="264" key="GridCell.Tab.1.center/65.24.782.826@65.24.782.826" timestamp="1599091773473" />
+    <state width="736" height="264" key="GridCell.Tab.1.center/65.24.825.826@65.24.825.826" timestamp="1599142839625" />
+    <state width="736" height="264" key="GridCell.Tab.1.left" timestamp="1599142839624">
+      <screen x="65" y="24" width="825" height="826" />
+    </state>
+    <state width="736" height="264" key="GridCell.Tab.1.left/65.24.782.826@65.24.782.826" timestamp="1599091773473" />
+    <state width="736" height="264" key="GridCell.Tab.1.left/65.24.825.826@65.24.825.826" timestamp="1599142839624" />
+    <state width="736" height="264" key="GridCell.Tab.1.right" timestamp="1599142839625">
+      <screen x="65" y="24" width="825" height="826" />
+    </state>
+    <state width="736" height="264" key="GridCell.Tab.1.right/65.24.782.826@65.24.782.826" timestamp="1599091773474" />
+    <state width="736" height="264" key="GridCell.Tab.1.right/65.24.825.826@65.24.825.826" timestamp="1599142839625" />
+    <state x="70" y="59" key="SettingsEditor" timestamp="1599053495160">
+      <screen x="65" y="24" width="1022" height="826" />
+    </state>
+    <state x="70" y="59" key="SettingsEditor/65.24.1022.826@65.24.1022.826" timestamp="1599053495160" />
+  </component>
+</project>
