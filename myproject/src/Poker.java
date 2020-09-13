@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 import java.util.Collections;
-// 模拟斗地主 备牌 洗牌 分牌 看牌
+// 模拟斗地主 备牌 洗牌 分牌  看牌
 public class Poker {
     public static void main(String[] args) {
         /*
